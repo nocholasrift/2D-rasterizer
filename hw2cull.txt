@@ -1,0 +1,10 @@
+png 120 120 hw2cull.png
+cull
+xyz -1 -1 0.5
+xyz 1 -1 0.5
+xyz 0 1 0.5
+color 1 0 0
+trif 1 2 3
+translate 0.1 0.1 -0.1
+color 0 1 0
+trif 2 1 3
